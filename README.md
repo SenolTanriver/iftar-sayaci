@@ -16,4 +16,3 @@
 ![sayac-pc](https://user-images.githubusercontent.com/116428427/227541823-fec1b9fe-4306-49e9-bd96-94330801f739.jpg)
 
 ![sayac-mobil](https://user-images.githubusercontent.com/116428427/227541831-312b3578-25ee-4adc-8a35-f8ea90d43026.jpg)
-
